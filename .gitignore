@@ -1,0 +1,7 @@
+.build/
+.DS_Store
+FileWheel.app/
+FileWheel-macOS-Universal.dmg
+FileWheel-macOS-Universal.zip
+*.xcodeproj
+DerivedData/
